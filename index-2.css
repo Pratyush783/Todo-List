@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    font-size:60px;
+}
+
+.head-container{
+    align-items: center;
+}
+
+
+.icon{
+    display:inline-block;
+}
+
+.icon i{
+    padding-left:650px;
+    color:red;
+    font-size: 35px;
+}
+
+.text p{
+    display:inline-block;
+    text-align:center;
+    padding-top:10px;
+    padding-left:30px;
+    margin-right:220px;
+    font-size: 35px;
+}
+
+.card-container{
+    padding-top:50px;
+    padding-left:260px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items:center;
+    flex-direction: column;
+    height:400px;
+    padding-bottom:30px;
+}
+
+.card{
+    padding : 20px 10px 50px 10px;
+    border:0.01px solid red;
+    background-color: white;
+    width:30%;
+    height:380px;
+    text-align:center;
+    box-shadow: 4px 4px 8px lightgray;
+    border-radius: 7px;
+    font-size: 25px;
+    padding-bottom: 130px;
+    margin-right:260px;
+    position: relative;
+}
+
+.card i{
+    color:red;
+    font-size:30px;
+    position:absolute;
+    right:0;
+    bottom:0;
+    padding-right:7px;
+    padding-bottom:7px;
+}
+
+.head-para {
+    color:red;
+    font-size:35px;
+}
+
+hr{
+    float:right;
+}
+
+.para {
+    text-decoration-color:red;
+    text-decoration-line:line-through;
+    text-decoration-style: solid;
+    color:red;
+}

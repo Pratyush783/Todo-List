@@ -1,0 +1,189 @@
+.main{
+    position: relative;
+}
+
+.head-container {
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap:500px;
+    height:50px;
+    margin-top:80px;
+    margin-left:135px;
+    margin-right:70px;
+    margin-bottom:100px;
+}
+
+h1{
+    font-size:60px;
+    text-align:center;
+    padding-left:165px;
+    color:gray;
+}
+
+.header-bold{
+    font-weight: bolder;
+    color:black;
+}
+
+.text {
+    padding-top:60px;
+    padding-right:220px;
+    font-size: 30px;
+    display:inline-block;
+}
+
+.icon{
+    display:inline-block;
+}
+
+.icon i{
+    color:red;
+    font-size: 35px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items:center;
+    flex-direction: column;
+    height:400px;
+}
+
+.card-1 {
+    padding : 10px 10px 50px 10px;
+    border:0.01px solid red;
+    background-color: white;
+    width:15%;
+    height:300px;
+    text-align:center;
+    box-shadow: 4px 4px 8px lightgray;
+    border-radius: 7px;
+    font-size: 25px;
+    padding-bottom: 40px;
+    margin-left:280px;
+}
+
+.card-2 {
+    padding : 10px 10px 50px 10px;
+    border:0.01px solid red;
+    background-color: white;
+    width:15%;
+    height:300px;
+    text-align:center;
+    box-shadow: 4px 4px 8px lightgray;
+    border-radius: 7px;
+    font-size: 25px;
+    padding-bottom: 40px;
+}
+
+.card-3 {
+    padding : 10px 10px 50px 10px;
+    border:0.01px solid red;
+    background-color: white;
+    width:15%;
+    height:300px;
+    text-align:center;
+    box-shadow: 4px 4px 8px lightgray;
+    border-radius: 7px;
+    font-size: 25px;
+    padding-bottom: 40px;
+    margin-right:260px;
+}
+
+.head-para {
+    color:red;
+}
+
+hr{
+    float:right;
+}
+
+.para {
+    text-decoration-color:red;
+    text-decoration-line:line-through;
+    text-decoration-style: solid;
+    color:red;
+}
+
+.card{
+    padding : 10px 10px 50px 10px;
+    top:300px;
+    left:550px;
+    border:0.01px solid red;
+    background-color: white;
+    width:25%;
+    height:170px;
+    text-align:center;
+    box-shadow: 4px 4px 8px lightgray;
+    border-radius: 7px;
+    font-size: 25px;
+    padding-bottom: 45px;
+    margin-right:260px;
+    position:absolute;
+    
+}
+
+.para-new {
+    color:red;
+}
+
+#fname {
+    width:280px;
+    height:40px;
+    border-radius:5px;
+    border-color:red;
+    box-shadow: 2px 2px 4px lightgray;
+}
+
+.add-button {
+    width:120px;
+    height:45px;
+    border-radius:30px;
+    color:white;
+    background-color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.body-header {
+    opacity:0.2;
+    background-image: url(images/Todo-1.png);
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+
+.bg-img {
+    filter:blur(8px);
+    -webkit-filter:blur(8px);
+    height:80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    opacity:0.6;
+}*/
+
